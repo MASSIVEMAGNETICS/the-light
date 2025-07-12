@@ -1,0 +1,5 @@
+{
+  "name": "Flower of Life Network Engine GUI 1",
+  "description": "A minimal React + Three.js GUI to visualize the state of the 'Advanced Flower of Life Network Engine'. It fetches graph data periodically and renders it as an interactive 3D scene of nodes and edges, reflecting the live state of the engine.",
+  "requestFramePermissions": []
+}
